@@ -41,7 +41,8 @@ kayak_project/
 │   └── hotels.csv
 ├── database/
 │   └── kayak.db
-└── README.md ```
+└── README.md
+```
 
 ---
 
