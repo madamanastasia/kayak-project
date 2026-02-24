@@ -28,18 +28,18 @@ L’ensemble du projet est organisé de manière claire afin de distinguer la ph
 ---
 
 # 📂 Structure du repository
+
 kayak_project/
-│
-├── weather.ipynb
-├── hotels.ipynb
-├── sql_analysis.ipynb
-│
-├── cities.csv
-├── weather_daily.csv
-├── hotels.csv
-│
-├── kayak.db
-│
+├── notebooks/
+│   ├── weather.ipynb
+│   ├── hotels.ipynb
+│   └── sql_analysis.ipynb
+├── data/
+│   ├── cities.csv
+│   ├── weather_daily.csv
+│   └── hotels.csv
+├── database/
+│   └── kayak.db
 └── README.md
 
 ---
