@@ -29,6 +29,7 @@ L’ensemble du projet est organisé de manière claire afin de distinguer la ph
 
 # 📂 Structure du repository
 
+```
 kayak_project/
 ├── notebooks/
 │   ├── weather.ipynb
@@ -41,6 +42,7 @@ kayak_project/
 ├── database/
 │   └── kayak.db
 └── README.md
+```
 
 ---
 
